@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1080533866107",
+    "project_id": "greenfingaz-dd1e8",
+    "storage_bucket": "greenfingaz-dd1e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080533866107:android:b3e8f4aaf915d71f5cb4de",
+        "android_client_info": {
+          "package_name": "com.greenfingaz.green_sellers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080533866107-n2gbqm443krfbetipon8lkpuuc23ln7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUaEwzt3aEIiP-iOBLY_G74kYObokWs7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080533866107-n2gbqm443krfbetipon8lkpuuc23ln7f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1080533866107-udeio8p0l8c641bkgkcmmra3ks7k6m1a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.greenfingaz.greenfingaz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080533866107:android:a17ce4bae6b834645cb4de",
+        "android_client_info": {
+          "package_name": "com.greenfingaz.green_users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080533866107-n2gbqm443krfbetipon8lkpuuc23ln7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUaEwzt3aEIiP-iOBLY_G74kYObokWs7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080533866107-n2gbqm443krfbetipon8lkpuuc23ln7f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1080533866107-udeio8p0l8c641bkgkcmmra3ks7k6m1a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.greenfingaz.greenfingaz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
